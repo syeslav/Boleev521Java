@@ -28,7 +28,7 @@ public class TaskTwo {
         printTowers(source, auxiliary, target);
     }
 
-    /*public static void hanoiTower(int numRings,
+    public static void hanoiTower(int numRings,
                                   List<Integer> source,
                                   List<Integer> auxiliary,
                                   List<Integer> target,
@@ -58,4 +58,4 @@ public class TaskTwo {
         System.out.println("Auxiliary: " + auxiliary);
         System.out.println("Target: " + target);
     }
-}*/
+}
