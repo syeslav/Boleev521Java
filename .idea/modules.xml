@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Boleev521Java.iml" filepath="$PROJECT_DIR$/Boleev521Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java521BoleevDebugger/Java521BoleevDebugger.iml" filepath="$PROJECT_DIR$/Java521BoleevDebugger/Java521BoleevDebugger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java521BoleevRecursion/Java521BoleevRecursion.iml" filepath="$PROJECT_DIR$/Java521BoleevRecursion/Java521BoleevRecursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java521BoleevSort/Java521BoleevSort.iml" filepath="$PROJECT_DIR$/Java521BoleevSort/Java521BoleevSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java521BoleevString/Java521BoleevString.iml" filepath="$PROJECT_DIR$/Java521BoleevString/Java521BoleevString.iml" />
